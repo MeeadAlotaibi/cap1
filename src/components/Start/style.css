@@ -1,0 +1,13 @@
+.discription button {
+  color: rgb(89, 121, 142);
+  font-size: large;
+  font-style: italic;
+  font-weight: bold;
+  border: none;
+  border-radius: 7px;
+  /* box-shadow: 10px 14px 10px 4px rgba(121,176,237,0.75); */
+}
+.explainBtn:hover {
+  color: white;
+  background-color: rgb(89, 121, 142);
+}

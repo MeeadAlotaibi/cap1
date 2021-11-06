@@ -1,0 +1,43 @@
+button {
+  color: whitesmoke;
+  font-size: large;
+  font-style: italic;
+  font-weight: bold;
+  border-radius: 5px;
+  /* box-shadow: 5px 3px 10px 4px rgba(248,250,252,0.75); */
+  margin-left: 10px;
+}
+.but {
+  margin-top: 20px;
+}
+.easy {
+  color: rgb(91, 153, 47);
+  background-color: rgb(235, 230, 230);
+  border: none;
+  border-radius: 7px;
+}
+.easy:hover {
+  color: white;
+  background-color: rgb(91, 153, 47);
+}
+
+.medium {
+  color: rgb(78, 163, 197);
+  background-color: rgb(235, 230, 230);
+  border: none;
+  border-radius: 7px;
+}
+.medium:hover {
+  color: white;
+  background-color: rgb(78, 163, 197);
+}
+.hard {
+  color: rgb(204, 86, 43);
+  background-color: rgb(235, 230, 230);
+  border: none;
+  border-radius: 7px;
+}
+.hard:hover {
+  color: white;
+  background-color: rgb(204, 86, 43);
+}

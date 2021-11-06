@@ -1,0 +1,16 @@
+body {
+  background-image: url(./imges/background2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+}
+.logo img {
+  height: 100px;
+  width: 100%;
+  border-radius: 10px;
+  /* box-shadow: 10px 14px 24px 11px rgba(242,206,206,0.75); */
+}
